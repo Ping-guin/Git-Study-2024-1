@@ -1,0 +1,11 @@
+commit 5377dcf7bbad57f88897bfa47be60cd4e2ed4860 (HEAD -> main)
+Author: Ping-guin <stanchoi2015@gmail.com>
+Date:   Sun Jun 2 10:31:33 2024 +0900
+
+    22 최승부 assignment 2-2
+
+commit facec406538c051fd1a054e81e1c63d4c45ca903
+Author: Ping-guin <stanchoi2015@gmail.com>
+Date:   Sun Jun 2 10:30:29 2024 +0900
+
+    22 최승부 assignment 2-1
